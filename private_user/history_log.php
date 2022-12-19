@@ -226,7 +226,7 @@ if(!isset($_SESSION["email_address"])){
     <img src="img/nel.jpg" class="rounded" alt="..."><hr>
     <div class="">
      
-     <div class=""><p><b style="font-size: 1.1em">Full Name:</b>CampCodes.</p></div>
+     <div class=""><p><b style="font-size: 1.1em">Full Name:</b>MUSADDIQUE</p></div>
      <div class=""><p><b style="font-size: 1.1em">Position:</b>Software Engineer</p></div>
 
   </div>

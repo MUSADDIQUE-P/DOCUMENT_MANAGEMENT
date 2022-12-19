@@ -13,7 +13,7 @@ if(!isset($_SESSION["email_address"])){
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Material Design Bootstrap</title>
+  <title>file management system</title>
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
   <!-- Bootstrap core CSS -->
@@ -192,6 +192,7 @@ if(!isset($_SESSION["email_address"])){
 <?php } ?>
 </tbody>
    </table>
+   <a class="btn btn-primary" href="add_file.php" role="button">        ADD NEW FILE        </a>
     </div>
  
 
@@ -216,10 +217,10 @@ if(!isset($_SESSION["email_address"])){
 </ul>
 <div class="tab-content pt-2 pl-1" id="pills-tabContent">
   <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-    <img src="img/nel.jpg" class="rounded" alt="..."><hr>
+  <img  width="pixels" src="img/nel.jpg" alt="Girl in a jacket" width="100" height="100"><hr>
     <div class="">
      
-     <div class=""><p><b style="font-size: 1.1em">Full Name:</b>CampCodes</p></div>
+     <div class=""><p><b style="font-size: 1.1em">Full Name:</b>MUSADDIQUE PINJARI</p></div>
      <div class=""><p><b style="font-size: 1.1em">Position:</b>Software Engineer</p></div>
 
   </div>
